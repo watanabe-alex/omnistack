@@ -1,0 +1,23 @@
+--------------- BACKEND ---------------
+mkdir backend
+cd backend
+npm init -y
+
+
+
+--------------- FRONTEND ---------------
+
+npx create-react-app frontend
+
+
+--------------- MOBILE ---------------
+
+instalação do expo de forma global
+sudo npm install -g expo-cli
+sudo npm install -g yarn //emulador para celular
+
+criando um projeto
+expo init mobile
+e seleciona template blank
+
+yarn start //para emular no expo do celular
