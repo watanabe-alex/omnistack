@@ -21,3 +21,13 @@ expo init mobile
 e seleciona template blank
 
 yarn start //para emular no expo do celular
+
+
+--------------- TESTES ---------------
+
+cd backend
+npm install jest
+npx jest --init
+
+testes de integração => testam funcionalidades completas que vêem muitas coisas (banco de dados, api, formulários, etc... tudo junto)
+testes unitários => testam coisas expecíficas algo isolado
