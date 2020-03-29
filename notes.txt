@@ -23,7 +23,7 @@ e seleciona template blank
 yarn start //para emular no expo do celular
 
 
---------------- TESTES ---------------
+--------------- TESTES (backend) ---------------
 
 cd backend
 npm install jest
